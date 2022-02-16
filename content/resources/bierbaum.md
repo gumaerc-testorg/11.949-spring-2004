@@ -2,8 +2,13 @@
 content_type: resource
 description: This assignment analyzes the dramatic real estate development in University
   City.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-949-city-visions-past-and-future-spring-2004/fe10211fe7ded76d4b5e4ab0fa53a3cc_bierbaum.pdf
+file: /media/courses/11-949-city-visions-past-and-future-spring-2004/fe10211fe7ded76d4b5e4ab0fa53a3cc_bierbaum.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: bierbaum.pdf
 uid: fe10211f-e7de-d76d-4b5e-4ab0fa53a3cc
