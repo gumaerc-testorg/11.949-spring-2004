@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 407188a9-0173-9d79-0d72-dc2a087db47f
 resourcetype: Document
 title: eric_orozco.pdf
 uid: 5643cf32-cb08-da72-acb1-977c6a2036db

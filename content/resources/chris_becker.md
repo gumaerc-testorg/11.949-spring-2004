@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 407188a9-0173-9d79-0d72-dc2a087db47f
 resourcetype: Document
 title: chris_becker.pdf
 uid: bd175ef3-2884-3ef4-6fbd-f611bf4093df

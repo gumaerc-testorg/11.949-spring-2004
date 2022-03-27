@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 407188a9-0173-9d79-0d72-dc2a087db47f
 resourcetype: Document
 title: bierbaum.pdf
 uid: fe10211f-e7de-d76d-4b5e-4ab0fa53a3cc
