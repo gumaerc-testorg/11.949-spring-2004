@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and a special
+  introduction to the course for users of MIT OpenCourseWare written by Prof. Diane
+  Davis.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

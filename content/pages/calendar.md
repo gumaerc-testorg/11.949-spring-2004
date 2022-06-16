@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides the course calendar. The calendar is divided into
+  three parts: Part I: Understanding Cities in Context: Local, National, and Global
+  (Weeks 1 through 4); Part II: Designing Cities In Local, National, and Global Context
+  (Weeks 5 through 9); Part III: City Design, Social Justice, and The Politics of
+  Change (Weeks 10 through 14).'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

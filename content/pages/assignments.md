@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of student work for the final paper of
+  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ Christopher Becker
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Hurvat haMidrash -- the Ruin of the Oracle: The Hurvah Synagogue of Louis Kahn and the Semantics of Nationalism ([PDF]({{< baseurl >}}/resources/eric_orozco)) (Courtesy of Eric Orozco. Used with permission.)
+Hurvat haMidrash -- the Ruin of the Oracle: The Hurvah Synagogue of Louis Kahn and the Semantics of Nationalism ({{% resource_link 5643cf32-cb08-da72-acb1-977c6a2036db "PDF" %}}) (Courtesy of Eric Orozco. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Eric Orozco
@@ -42,7 +44,7 @@ Eric Orozco
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Jerusalem at the Beginning of the Twentieth Century: Spatial Continuity and Social Fragmentation ([PDF]({{< baseurl >}}/resources/nora)) (Courtesy of Nora Libertun de Duren. Used with permission.)
+Jerusalem at the Beginning of the Twentieth Century: Spatial Continuity and Social Fragmentation ({{% resource_link ad358481-3e4c-7bd0-e885-5e81862660f2 "PDF" %}}) (Courtesy of Nora Libertun de Duren. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Nora Libertun de Duren
