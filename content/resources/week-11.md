@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 Speaker: Jonathan Glover, Kings College, London
 
 Readings on the Various Scales and Locations of Identity and Power in a Globalizing world
-
-
 

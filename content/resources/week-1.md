@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Speaker: Gerald Frug, Harvard Law School
 
 Readings on forms of Citizenship and Political Power as Product of the City-State Nexus
-
-
 

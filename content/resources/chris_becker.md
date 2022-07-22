@@ -6,6 +6,7 @@ file: /courses/11-949-city-visions-past-and-future-spring-2004/bd175ef328843ef46
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chris_becker.pdf
 uid: bd175ef3-2884-3ef4-6fbd-f611bf4093df
 ---
 This assignment describes the history of the Meadowlands and how the Hackensack Meadowlands Reclamation and Development Act affected it.
-
