@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section provides selected video lectures from the course.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: c54ed77e-27a1-33b4-195a-b01def7552bd
 videos:

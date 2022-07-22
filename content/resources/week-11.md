@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Week 11: Scales of Agency in a Global World: Individuals, Cities, Nations,
   and Beyond'
 uid: b7910d88-6d4d-3601-bb42-b352ede94f50
@@ -18,3 +30,4 @@ video_metadata:
 Speaker: Jonathan Glover, Kings College, London
 
 Readings on the Various Scales and Locations of Identity and Power in a Globalizing world
+
