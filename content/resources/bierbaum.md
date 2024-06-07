@@ -3,6 +3,7 @@ content_type: resource
 description: This assignment analyzes the dramatic real estate development in University
   City.
 file: /courses/11-949-city-visions-past-and-future-spring-2004/fe10211fe7ded76d4b5e4ab0fa53a3cc_bierbaum.pdf
+file_size: 115875
 file_type: application/pdf
 learning_resource_types:
 - Assignments
