@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Paper authored by Eric Orozco, a student in the course.
-file: /courses/11-949-city-visions-past-and-future-spring-2004/5643cf32cb08da72acb1977c6a2036db_eric_orozco.pdf
+file: /ol-ocw-studio-app/courses/11-949-city-visions-past-and-future-spring-2004/5643cf32cb08da72acb1977c6a2036db_eric_orozco.pdf
 file_size: 1001204
 file_type: application/pdf
 learning_resource_types:
