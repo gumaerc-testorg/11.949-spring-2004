@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 490737337
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -19,7 +19,7 @@ start_time: ''
 title: 'Week 13: Considering Jerusalem'
 uid: 0b6797ed-5e2e-7670-f707-730209bf6491
 video_files:
-  archive_url: http://www.archive.org/download/MIT11.949S04/mit-ocw-11.949-26apr2004-220k.mp4
+  archive_url: https://ia601307.us.archive.org/20/items/MIT11.949S04/mit-ocw-11.949-10may2004-220k_512kb.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/DWYDS3dFNLg/default.jpg
   video_transcript_file: null
