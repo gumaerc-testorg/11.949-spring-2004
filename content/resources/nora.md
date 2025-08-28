@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Paper authored by Nora Libertun de Duren, a student in the course.
-file: /courses/11-949-city-visions-past-and-future-spring-2004/ad3584813e4c7bd0e8855e81862660f2_nora.pdf
+file: /ol-ocw-studio-app/courses/11-949-city-visions-past-and-future-spring-2004/ad3584813e4c7bd0e8855e81862660f2_nora.pdf
 file_size: 341820
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 321197073
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -20,7 +20,7 @@ title: 'Week 11: Scales of Agency in a Global World: Individuals, Cities, Nation
   and Beyond'
 uid: b7910d88-6d4d-3601-bb42-b352ede94f50
 video_files:
-  archive_url: http://www.archive.org/download/MIT11.949S04/mit-ocw-11.949-10may2004-220k.mp4
+  archive_url: https://ia801307.us.archive.org/20/items/MIT11.949S04/mit-ocw-11.949-26apr2004-220k_512kb.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/HmqzZ-lb5zk/default.jpg
   video_transcript_file: null
